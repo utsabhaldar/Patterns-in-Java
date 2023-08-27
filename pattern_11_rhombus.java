@@ -1,4 +1,9 @@
 // printing the pattern
+//     *****
+//    *****
+//   *****
+//  *****
+// *****
 
 
 public class pattern_11_rhombus {
